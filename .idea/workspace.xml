@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afd15ef3-0a85-4ec1-9ef1-5ac8e16c2abb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bV5wFEfRTp3dQsh5CzQulq3y3v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/geekprogramming/network" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xavie\Desktop\PycharmProjects\geekprogramming\network" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xavie\Desktop\PycharmProjects\front_end\js" />
+      <recent name="C:\Users\xavie\Desktop\PycharmProjects\front_end" />
+      <recent name="C:\Users\xavie\Desktop\PycharmProjects\front_end\css\css" />
+      <recent name="C:\Users\xavie\Desktop\PycharmProjects\geekprogramming\module\module" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.01_static_web">
+    <configuration name="01_static_web" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekprogramming/http" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekprogramming/http/01_static_web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_global_variable_lock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekprogramming/thread" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekprogramming/thread/03_global_variable_lock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_dead_lock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekprogramming/thread" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekprogramming/thread/04_dead_lock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tcp_client" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekprogramming/network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekprogramming/network/tcp_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tcp_server" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekprogramming/network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekprogramming/network/tcp_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.03_global_variable_lock" />
+      <item itemvalue="Python.04_dead_lock" />
+      <item itemvalue="Python.tcp_server" />
+      <item itemvalue="Python.tcp_client" />
+      <item itemvalue="Python.01_static_web" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01_static_web" />
+        <item itemvalue="Python.tcp_client" />
+        <item itemvalue="Python.tcp_server" />
+        <item itemvalue="Python.04_dead_lock" />
+        <item itemvalue="Python.03_global_variable_lock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afd15ef3-0a85-4ec1-9ef1-5ac8e16c2abb" name="Default Changelist" comment="" />
+      <created>1588704656923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588704656923</updated>
+      <workItem from="1588704663458" duration="585000" />
+      <workItem from="1588705261001" duration="732000" />
+      <workItem from="1588706710060" duration="3000" />
+      <workItem from="1588714966349" duration="1160000" />
+      <workItem from="1588725845589" duration="868000" />
+      <workItem from="1588782036130" duration="908000" />
+      <workItem from="1588784408580" duration="707000" />
+      <workItem from="1588883500925" duration="13000" />
+      <workItem from="1588959861970" duration="49000" />
+      <workItem from="1589220644931" duration="408000" />
+      <workItem from="1589221112982" duration="2343000" />
+      <workItem from="1589488534298" duration="6412000" />
+      <workItem from="1589844190715" duration="1775000" />
+      <workItem from="1590536178140" duration="2512000" />
+      <workItem from="1590694627551" duration="3900000" />
+      <workItem from="1590801287418" duration="1190000" />
+      <workItem from="1590802745670" duration="670000" />
+      <workItem from="1590805648374" duration="154000" />
+      <workItem from="1590805836550" duration="25921000" />
+      <workItem from="1592241841246" duration="6545000" />
+      <workItem from="1592510631296" duration="5127000" />
+      <workItem from="1593113748995" duration="796000" />
+      <workItem from="1593122356238" duration="2562000" />
+      <workItem from="1593183927009" duration="1255000" />
+      <workItem from="1593269295526" duration="4226000" />
+      <workItem from="1593453325497" duration="4900000" />
+      <workItem from="1594323517183" duration="2725000" />
+      <workItem from="1594328485965" duration="4151000" />
+      <workItem from="1594657992851" duration="9921000" />
+      <workItem from="1595265381397" duration="4857000" />
+      <workItem from="1595533053262" duration="1309000" />
+      <workItem from="1596475268729" duration="24000" />
+      <workItem from="1596475294122" duration="4756000" />
+      <workItem from="1596811324543" duration="6676000" />
+      <workItem from="1597080280228" duration="6234000" />
+      <workItem from="1597683834600" duration="21713000" />
+      <workItem from="1598238838569" duration="8489000" />
+      <workItem from="1602106176597" duration="6459000" />
+      <workItem from="1602700964234" duration="3510000" />
+      <workItem from="1602877668972" duration="7327000" />
+      <workItem from="1603155795174" duration="1469000" />
+      <workItem from="1603228381901" duration="1126000" />
+      <workItem from="1603396773105" duration="723000" />
+      <workItem from="1603488389521" duration="6892000" />
+      <workItem from="1603913748977" duration="653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="271" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603157214902">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="271" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1602885828597" />
+    <state x="271" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/91.0.1445.864@91.0.1445.864" timestamp="1603157214902" />
+    <state x="609" y="177" key="FileChooserDialogImpl" timestamp="1598367754101">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="609" y="177" key="FileChooserDialogImpl/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1598367754101" />
+    <state width="1402" height="244" key="GridCell.Tab.0.bottom" timestamp="1603490889698">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="244" key="GridCell.Tab.0.bottom/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1603490889698" />
+    <state width="1402" height="244" key="GridCell.Tab.0.bottom/91.0.1445.864@91.0.1445.864" timestamp="1603228905427" />
+    <state width="1402" height="244" key="GridCell.Tab.0.center" timestamp="1603490889698">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="244" key="GridCell.Tab.0.center/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1603490889698" />
+    <state width="1402" height="244" key="GridCell.Tab.0.center/91.0.1445.864@91.0.1445.864" timestamp="1603228905427" />
+    <state width="1402" height="244" key="GridCell.Tab.0.left" timestamp="1603490889698">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="244" key="GridCell.Tab.0.left/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1603490889698" />
+    <state width="1402" height="244" key="GridCell.Tab.0.left/91.0.1445.864@91.0.1445.864" timestamp="1603228905426" />
+    <state width="1402" height="244" key="GridCell.Tab.0.right" timestamp="1603490889698">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="244" key="GridCell.Tab.0.right/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1603490889698" />
+    <state width="1402" height="244" key="GridCell.Tab.0.right/91.0.1445.864@91.0.1445.864" timestamp="1603228905427" />
+    <state width="1402" height="211" key="GridCell.Tab.1.bottom" timestamp="1597080933620">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="211" key="GridCell.Tab.1.bottom/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1597080933620" />
+    <state width="1402" height="211" key="GridCell.Tab.1.center" timestamp="1597080933620">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="211" key="GridCell.Tab.1.center/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1597080933620" />
+    <state width="1402" height="211" key="GridCell.Tab.1.left" timestamp="1597080933620">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="211" key="GridCell.Tab.1.left/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1597080933620" />
+    <state width="1402" height="211" key="GridCell.Tab.1.right" timestamp="1597080933620">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="211" key="GridCell.Tab.1.right/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1597080933620" />
+    <state x="534" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1603913820058">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="522" y="250" key="com.intellij.ide.util.TipDialog/73.0.1463.864/3840.-558.1920.1040@73.0.1463.864" timestamp="1595541422583" />
+    <state x="534" y="250" key="com.intellij.ide.util.TipDialog/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1603913820058" />
+    <state x="534" y="250" key="com.intellij.ide.util.TipDialog/91.0.1445.864@91.0.1445.864" timestamp="1603228430262" />
+    <state x="377" y="170" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596813987766">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="377" y="170" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1596813987766" />
+    <state x="557" y="78" key="refactoring.ChangeSignatureDialog" timestamp="1596816291883">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="557" y="78" key="refactoring.ChangeSignatureDialog/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1596816291883" />
+    <state x="490" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1597962551373">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="490" y="185" width="672" height="678" key="search.everywhere.popup/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1597962551373" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geekprogramming/designpattern/02_lazy_singleton.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProjects$Practice2__1_.coverage" NAME="Practice2 (1) Coverage Results" MODIFIED="1590538449246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/oop" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Practice.coverage" NAME="Practice Coverage Results" MODIFIED="1589845858366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/oop" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$01_multi_process.coverage" NAME="01_multi_process Coverage Results" MODIFIED="1602106882063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/process" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1588726088216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/assignment/assignment01" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$05_sub_process.coverage" NAME="05_sub_process Coverage Results" MODIFIED="1602274807258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/process" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lambdademo01.coverage" NAME="lambdademo01 Coverage Results" MODIFIED="1589221139207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/lambda" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$managementSystem.coverage" NAME="managementSystem Coverage Results" MODIFIED="1591908582748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/StudentAccountManageSystem" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Q1.coverage" NAME="Q1 Coverage Results" MODIFIED="1588705899942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/assignment/assignment01" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$remove.coverage" NAME="remove Coverage Results" MODIFIED="1597083646048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/test" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$administrator.coverage" NAME="administrator Coverage Results" MODIFIED="1598239677128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/librarySystem" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1590536251387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/oop" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gradeifelse.coverage" NAME="gradeifelse Coverage Results" MODIFIED="1597080966834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/test" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$01_static_web.coverage" NAME="01_static_web Coverage Results" MODIFIED="1603490889688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/http" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$04_process_global_variable.coverage" NAME="04_process_global_variable Coverage Results" MODIFIED="1602273503326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/process" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$oop1.coverage" NAME="oop1 Coverage Results" MODIFIED="1589488908663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/oop" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1591382641893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/module" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$03_factory.coverage" NAME="03_factory Coverage Results" MODIFIED="1596479671077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/designpattern" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$02_lazy_singleton.coverage" NAME="02_lazy_singleton Coverage Results" MODIFIED="1596816585197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/designpattern" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ifwhilemultiplication.coverage" NAME="ifwhilemultiplication Coverage Results" MODIFIED="1597082036268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/test" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Practice3.coverage" NAME="Practice3 Coverage Results" MODIFIED="1590802750711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/oop" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exception_demo01.coverage" NAME="exception demo01 Coverage Results" MODIFIED="1591301970209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/exception" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1597962808157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/StudentAccountManageSystem" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$01_multi_thread.coverage" NAME="01_multi_thread Coverage Results" MODIFIED="1602701741684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/thread" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1603228891418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/network" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1598365430259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/librarySystem" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$StashManagementSystem.coverage" NAME="StashManagementSystem Coverage Results" MODIFIED="1592514384973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/lightandbulb" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$03_global_variable_lock.coverage" NAME="03_global_variable_lock Coverage Results" MODIFIED="1602702710943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/thread" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$bulb.coverage" NAME="bulb Coverage Results" MODIFIED="1592245807298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/lightandbulb" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$03_process_args.coverage" NAME="03_process_args Coverage Results" MODIFIED="1602108374983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/process" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1603228905415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/network" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$02_process_id.coverage" NAME="02_process_id Coverage Results" MODIFIED="1602107984738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/process" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Dog.coverage" NAME="Dog Coverage Results" MODIFIED="1589489726851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/oop" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$02_global_variable_thread.coverage" NAME="02_global_variable_thread Coverage Results" MODIFIED="1602702063569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/thread" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$04_dead_lock.coverage" NAME="04_dead_lock Coverage Results" MODIFIED="1602877846698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/thread" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exception_demo02.coverage" NAME="exception demo02 Coverage Results" MODIFIED="1591303245336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekprogramming/exception" />
+  </component>
+</project>

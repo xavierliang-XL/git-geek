@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce4a6bf7-15fa-40ab-a22e-eb8a29397076" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gazznCjC5Whg6M4CH9VKYQoUhn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="librarySystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/librarySystem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/librarySystem/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="System" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="librarySystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/librarySystem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/librarySystem/System.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.System" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce4a6bf7-15fa-40ab-a22e-eb8a29397076" name="Default Changelist" comment="" />
+      <created>1598367755870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598367755870</updated>
+      <workItem from="1598367757566" duration="12552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="271" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598367820626">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="271" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1598367820626" />
+    <state x="583" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598578519666">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="583" y="237" key="#com.intellij.fileTypes.FileTypeChooser/91.0.1445.864@91.0.1445.864" timestamp="1598578519666" />
+    <state width="1402" height="224" key="GridCell.Tab.0.bottom" timestamp="1598843756871">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="224" key="GridCell.Tab.0.bottom/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1598372756187" />
+    <state width="1402" height="224" key="GridCell.Tab.0.bottom/91.0.1445.864@91.0.1445.864" timestamp="1598843756871" />
+    <state width="1402" height="224" key="GridCell.Tab.0.center" timestamp="1598843756870">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="224" key="GridCell.Tab.0.center/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1598372756187" />
+    <state width="1402" height="224" key="GridCell.Tab.0.center/91.0.1445.864@91.0.1445.864" timestamp="1598843756870" />
+    <state width="1402" height="224" key="GridCell.Tab.0.left" timestamp="1598843756870">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="224" key="GridCell.Tab.0.left/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1598372756187" />
+    <state width="1402" height="224" key="GridCell.Tab.0.left/91.0.1445.864@91.0.1445.864" timestamp="1598843756870" />
+    <state width="1402" height="224" key="GridCell.Tab.0.right" timestamp="1598843756871">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state width="1402" height="224" key="GridCell.Tab.0.right/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1598372756187" />
+    <state width="1402" height="224" key="GridCell.Tab.0.right/91.0.1445.864@91.0.1445.864" timestamp="1598843756871" />
+    <state x="324" y="77" key="SettingsEditor" timestamp="1598372166865">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="324" y="77" key="SettingsEditor/91.0.1445.864/3840.-479.1920.1040@91.0.1445.864" timestamp="1598372166865" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/librarySystem$Main.coverage" NAME="Main Coverage Results" MODIFIED="1598841708325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/librarySystem" />
+    <SUITE FILE_PATH="coverage/librarySystem$System.coverage" NAME="System Coverage Results" MODIFIED="1598371689013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/librarySystem" />
+  </component>
+</project>

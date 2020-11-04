@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        @import "css/jsDemo04.css";
+    </style>
+</head>
+<body>
+<p>
+    welcome to the site, within <span id="sec">5</span> s will go to home page
+</p>
+<script>
+var time =document.getElementById("sec");
+var second=5;
+function modify(){
+    second--;
+    if(second<=0){
+        location.href="https://www.amazon.ca/?ref=icp_country_us";
+    }
+    time.innerHTML=second;
+}
+window.setInterval(modify,1000)
+</script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+uI=input('plz enter ur num')
+res='monday' if uI.isdigit()==True and uI=='1' else 'tuesday' if uI.isdigit()==True and uI=='2' else 'wednesday' if uI.isdigit()==True and uI=='3' else 'thursday' if uI.isdigit()==True and uI=='4' else 'friday' if uI.isdigit()==True and uI=='5' else 'saturday' if uI.isdigit()==True and uI=='6' else 'sunday' if uI.isdigit()==True and uI=='7' else 'invalid num'
+print(res)

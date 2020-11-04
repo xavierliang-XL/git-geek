@@ -1,0 +1,24 @@
+name_list=['david','xavier','alan','jim']
+print(name_list)
+#通过下标修改值
+name_list[0] ='aaa'
+print(name_list)
+#逆序
+name_list.reverse()
+print(name_list)
+#排序
+num_list=[4,2,7,10,5,8]
+print(num_list)
+#sort():默认升序排列
+num_list.sort()
+print(num_list)
+#可以通过修改sort()的参数去改变排列方式
+num_list.sort(reverse=True)
+print(num_list)
+#当容器为string时，按照字母表顺序排列
+letter_list=['a','w','s','d']
+letter_list.sort()
+#字符串排列规则
+name_list2=['ab','a','aa','abc','bc','ac']
+name_list2.sort()
+print(name_list2)

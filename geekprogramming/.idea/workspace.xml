@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0ab5a3b-30c9-4269-8577-3855a9702c03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/AccountSystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/GlobalVariable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/PrintStar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/getUserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/multiParams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/randomList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/returnDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/lambdademo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/fib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/getMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/sortdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python08/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python08/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python08/.idea/python08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python08/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice02.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice03.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice04.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice05.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice06.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice07.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice08.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice09.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practices/listpractice10.py" beforeDir="false" afterPath="$PROJECT_DIR$/practices/listpractice10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/sort1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/sort1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/sort3.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/sort3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/sort4.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/sort4.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1X2d5oyrHJvR0I29mXKW4FUMB0J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python08" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xavier\Desktop\PycharmProjects\geekprogramming\sort" />
+      <recent name="C:\Users\xavier\Desktop\PycharmProjects\geekprogramming\practices" />
+      <recent name="C:\Users\xavier\Desktop\PycharmProjects\geekprogramming\assignment\past-assignment" />
+      <recent name="C:\Users\xavier\Desktop\PycharmProjects\geekprogramming\str" />
+      <recent name="C:\Users\xavier\PycharmProjects\geekprogramming\loop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lambdademo01">
+    <configuration name="AccountSystem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekprogramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/AccountSystem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekprogramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/fib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getMax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekprogramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/getMax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambdademo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekprogramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lambda" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambda/lambdademo01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiParams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekprogramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/multiParams.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lambdademo01" />
+        <item itemvalue="Python.getMax" />
+        <item itemvalue="Python.fib" />
+        <item itemvalue="Python.AccountSystem" />
+        <item itemvalue="Python.multiParams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0ab5a3b-30c9-4269-8577-3855a9702c03" name="Default Changelist" comment="" />
+      <created>1580247942784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580247942784</updated>
+      <workItem from="1580247944389" duration="5264000" />
+      <workItem from="1580335390707" duration="4102000" />
+      <workItem from="1580490090766" duration="4267000" />
+      <workItem from="1580664905984" duration="2049000" />
+      <workItem from="1583893862870" duration="476000" />
+      <workItem from="1584475706163" duration="17125000" />
+      <workItem from="1585165534108" duration="8949000" />
+      <workItem from="1585337906987" duration="10021000" />
+      <workItem from="1585532698695" duration="297000" />
+      <workItem from="1585587985183" duration="2768000" />
+      <workItem from="1585686006783" duration="8214000" />
+      <workItem from="1585771767652" duration="11491000" />
+      <workItem from="1586052572746" duration="3000" />
+      <workItem from="1586264735644" duration="2512000" />
+      <workItem from="1586376174844" duration="2923000" />
+      <workItem from="1586386488243" duration="1919000" />
+      <workItem from="1586461654510" duration="8988000" />
+      <workItem from="1586787047291" duration="1799000" />
+      <workItem from="1586840832838" duration="17684000" />
+      <workItem from="1587064761455" duration="14268000" />
+      <workItem from="1587395258367" duration="12620000" />
+      <workItem from="1587673069143" duration="8240000" />
+      <workItem from="1587681862152" duration="3124000" />
+      <workItem from="1587736665898" duration="10113000" />
+      <workItem from="1588524788457" duration="5083000" />
+      <workItem from="1588603305829" duration="9107000" />
+    </task>
+    <task id="LOCAL-00001" summary="add new code">
+      <created>1587065836708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587065836708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new directory&#10;add 10 new files">
+      <created>1587077307930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587077307930</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new code" />
+    <MESSAGE value="add new directory&#10;add 10 new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new directory&#10;add 10 new files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="44" key="CommitChangelistDialog2" timestamp="1587077302459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="454" y="44" key="CommitChangelistDialog2/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1587077302459" />
+    <state x="410" y="61" key="FileChooserDialogImpl" timestamp="1587996800154">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="61" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1587996800154" />
+    <state width="1305" height="352" key="GridCell.Tab.0.bottom" timestamp="1588640461485">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1305" height="352" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588640461485" />
+    <state width="1865" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1588622205020" />
+    <state width="1305" height="352" key="GridCell.Tab.0.center" timestamp="1588640461484">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1305" height="352" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1588640461484" />
+    <state width="1865" height="352" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1588622205020" />
+    <state width="1305" height="352" key="GridCell.Tab.0.left" timestamp="1588640461484">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1305" height="352" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1588640461484" />
+    <state width="1865" height="352" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1588622205019" />
+    <state width="1305" height="352" key="GridCell.Tab.0.right" timestamp="1588640461485">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1305" height="352" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1588640461485" />
+    <state width="1865" height="352" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1588622205020" />
+    <state width="1865" height="331" key="GridCell.Tab.1.bottom" timestamp="1587184612971">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1865" height="331" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587184612971" />
+    <state width="1865" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1587074736124" />
+    <state width="1865" height="331" key="GridCell.Tab.1.center" timestamp="1587184612970">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1865" height="331" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1587184612970" />
+    <state width="1865" height="331" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1587074736123" />
+    <state width="1865" height="331" key="GridCell.Tab.1.left" timestamp="1587184612970">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1865" height="331" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1587184612970" />
+    <state width="1865" height="331" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1587074736123" />
+    <state width="1865" height="331" key="GridCell.Tab.1.right" timestamp="1587184612970">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1865" height="331" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1587184612970" />
+    <state width="1865" height="331" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1587074736123" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584476470752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1584476470752" />
+    <state x="360" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588603340841">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="360" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1588603340841" />
+    <state x="508" y="264" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1587681868164" />
+    <state x="716" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587679249416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1587679249416" />
+    <state x="484" y="70" width="949" height="969" key="search.everywhere.popup" timestamp="1588618358934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1580500612910" />
+    <state x="484" y="70" width="949" height="969" key="search.everywhere.popup/0.0.1920.1040/1920.-408.1920.1040@0.0.1920.1040" timestamp="1588618358934" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/geekprogramming$AccountSystem.coverage" NAME="AccountSystem Coverage Results" MODIFIED="1588604267203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo12.coverage" NAME="strDemo12 Coverage Results" MODIFIED="1585778967804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$fib.coverage" NAME="fib Coverage Results" MODIFIED="1588613448799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo06.coverage" NAME="strDemo06 Coverage Results" MODIFIED="1586467238374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice06.coverage" NAME="listpractice06 Coverage Results" MODIFIED="1587677480944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$input3.coverage" NAME="input3 Coverage Results" MODIFIED="1580340845455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$getMax.coverage" NAME="getMax Coverage Results" MODIFIED="1588619116252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice.coverage" NAME="listpractice Coverage Results" MODIFIED="1587678732766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$DateCheck.coverage" NAME="DateCheck Coverage Results" MODIFIED="1585166493303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo09.coverage" NAME="strDemo09 Coverage Results" MODIFIED="1586267070128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice09.coverage" NAME="listpractice09 Coverage Results" MODIFIED="1587677529107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$Print.coverage" NAME="Print Coverage Results" MODIFIED="1584482857725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$forpractice2.coverage" NAME="forpractice2 Coverage Results" MODIFIED="1585175043958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listDemo05.coverage" NAME="listDemo05 Coverage Results" MODIFIED="1586463400967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listDemo02.coverage" NAME="listDemo02 Coverage Results" MODIFIED="1586267019340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/geekprogramming$Q5.coverage" NAME="Q5 Coverage Results" MODIFIED="1585591123656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment/assignment01" />
+    <SUITE FILE_PATH="coverage/geekprogramming$busDemo2.coverage" NAME="busDemo2 Coverage Results" MODIFIED="1584571857190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/ifBasic" />
+    <SUITE FILE_PATH="coverage/geekprogramming$sort3.coverage" NAME="sort3 Coverage Results" MODIFIED="1586973489507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
+    <SUITE FILE_PATH="coverage/geekprogramming$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1585588762728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment/assignment01" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo03.coverage" NAME="strDemo03 Coverage Results" MODIFIED="1585690782461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$image.coverage" NAME="image Coverage Results" MODIFIED="1580788138176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$forpractice5.coverage" NAME="forpractice5 Coverage Results" MODIFIED="1585339187846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
+    <SUITE FILE_PATH="coverage/geekprogramming$LoopPractice.coverage" NAME="LoopPractice Coverage Results" MODIFIED="1585344161044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice03.coverage" NAME="listpractice03 Coverage Results" MODIFIED="1587677433762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$forpractice.coverage" NAME="forpractice Coverage Results" MODIFIED="1585174352316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$assignment_str.coverage" NAME="assignment-str Coverage Results" MODIFIED="1580256470405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$Q1.coverage" NAME="Q1 Coverage Results" MODIFIED="1585588570039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment/assignment01" />
+    <SUITE FILE_PATH="coverage/geekprogramming$dicSet.coverage" NAME="dicSet Coverage Results" MODIFIED="1587066920414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dic" />
+    <SUITE FILE_PATH="coverage/geekprogramming$busDemo.coverage" NAME="busDemo Coverage Results" MODIFIED="1584566820418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/ifBasic" />
+    <SUITE FILE_PATH="coverage/geekprogramming$returnDemo.coverage" NAME="returnDemo Coverage Results" MODIFIED="1587675728412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo02.coverage" NAME="strDemo02 Coverage Results" MODIFIED="1585686309810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice02.coverage" NAME="listpractice02 Coverage Results" MODIFIED="1587677412676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo08.coverage" NAME="strDemo08 Coverage Results" MODIFIED="1585777139530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice08.coverage" NAME="listpractice08 Coverage Results" MODIFIED="1587677514676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listDemo04.coverage" NAME="listDemo04 Coverage Results" MODIFIED="1586462839026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/geekprogramming$forpractice3.coverage" NAME="forpractice3 Coverage Results" MODIFIED="1585176071649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice07.coverage" NAME="listpractice07 Coverage Results" MODIFIED="1587677495657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$lambdademo01.coverage" NAME="lambdademo01 Coverage Results" MODIFIED="1588622204999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lambda" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo13.coverage" NAME="strDemo13 Coverage Results" MODIFIED="1585779341680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$guessNum.coverage" NAME="guessNum Coverage Results" MODIFIED="1580499036473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$multiParams.coverage" NAME="multiParams Coverage Results" MODIFIED="1588010306974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/geekprogramming$Q6.coverage" NAME="Q6 Coverage Results" MODIFIED="1585591355052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment/assignment01" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo07.coverage" NAME="strDemo07 Coverage Results" MODIFIED="1585775176073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$Type.coverage" NAME="Type Coverage Results" MODIFIED="1584480404166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$forpractice4.coverage" NAME="forpractice4 Coverage Results" MODIFIED="1585338145116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
+    <SUITE FILE_PATH="coverage/geekprogramming$forpractice7.coverage" NAME="forpractice7 Coverage Results" MODIFIED="1585341370086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
+    <SUITE FILE_PATH="coverage/geekprogramming$sort4.coverage" NAME="sort4 Coverage Results" MODIFIED="1587504162199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
+    <SUITE FILE_PATH="coverage/geekprogramming$input4.coverage" NAME="input4 Coverage Results" MODIFIED="1580500678131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$sort1.coverage" NAME="sort1 Coverage Results" MODIFIED="1587505143441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
+    <SUITE FILE_PATH="coverage/geekprogramming$input2.coverage" NAME="input2 Coverage Results" MODIFIED="1580340833406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$sort2.coverage" NAME="sort2 Coverage Results" MODIFIED="1586971027538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
+    <SUITE FILE_PATH="coverage/geekprogramming$sortdemo.coverage" NAME="sortdemo Coverage Results" MODIFIED="1587507705267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$forpractice6.coverage" NAME="forpractice6 Coverage Results" MODIFIED="1585340196534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo10.coverage" NAME="strDemo10 Coverage Results" MODIFIED="1585778398822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$LoopPractice2.coverage" NAME="LoopPractice2 Coverage Results" MODIFIED="1585346859159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
+    <SUITE FILE_PATH="coverage/geekprogramming$input.coverage" NAME="input Coverage Results" MODIFIED="1584484972324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice10.coverage" NAME="listpractice10 Coverage Results" MODIFIED="1587677547315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$LoopPractice3.coverage" NAME="LoopPractice3 Coverage Results" MODIFIED="1585532886631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo11.coverage" NAME="strDemo11 Coverage Results" MODIFIED="1585778726582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listDemo01.coverage" NAME="listDemo01 Coverage Results" MODIFIED="1585781276658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/geekprogramming$Q4.coverage" NAME="Q4 Coverage Results" MODIFIED="1585590727795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment/assignment01" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo05.coverage" NAME="strDemo05 Coverage Results" MODIFIED="1585772155509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice05.coverage" NAME="listpractice05 Coverage Results" MODIFIED="1587677465815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$PrintStar.coverage" NAME="PrintStar Coverage Results" MODIFIED="1588007885774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/geekprogramming$strDemo04.coverage" NAME="strDemo04 Coverage Results" MODIFIED="1585695479064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/geekprogramming$randomList.coverage" NAME="randomList Coverage Results" MODIFIED="1588008576293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listpractice04.coverage" NAME="listpractice04 Coverage Results" MODIFIED="1587681503489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practices" />
+    <SUITE FILE_PATH="coverage/geekprogramming$Demo01.coverage" NAME="Demo01 Coverage Results" MODIFIED="1585171078545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/geekprogramming$listDemo06.coverage" NAME="listDemo06 Coverage Results" MODIFIED="1586464654769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/geekprogramming$Q3.coverage" NAME="Q3 Coverage Results" MODIFIED="1585590532519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment/assignment01" />
+    <SUITE FILE_PATH="coverage/geekprogramming$rock_paper_scissor.coverage" NAME="rock,paper,scissor Coverage Results" MODIFIED="1580664980723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1580498982019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geekprogramming$getUserInput.coverage" NAME="getUserInput Coverage Results" MODIFIED="1587675496143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+  </component>
+</project>

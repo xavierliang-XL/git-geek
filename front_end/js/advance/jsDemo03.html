@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<img src="../img/banner_1.jpg" id="img1">
+
+<script>
+    var num=1;
+    function changeImg(){
+        if(num>3){
+            num=1;
+        }
+        var img=document.getElementById("img1");
+        img.src="../img/banner_"+num+".jpg";
+        num++;
+    }
+
+    window.setInterval(changeImg,1000);
+</script>
+</body>
+</html>

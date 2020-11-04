@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<img src="../img/off.gif" id="img1">
+
+<script>
+    var light=document.getElementById("img1");
+    light.onclick=function(){
+        switch(light.src){
+            case "../img/off.gif":
+                light.src = "../img/on.gif";
+                break;
+            case "../img/on.gif":
+                light.src="../img/off.gif";
+                break;
+        }
+    }
+
+</script>
+</body>
+</html>

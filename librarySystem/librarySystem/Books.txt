@@ -1,0 +1,1 @@
+[{'bname': 'b1', 'bid': '1', 'author': 'jim', 'publish_date': '2020-08-20', 'category': 'c1'}]

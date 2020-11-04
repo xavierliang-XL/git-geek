@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--action: form 表单提交地址, #代表没有; method:post & get get会将提交的信息放在url, post则会将提交的信息隐藏-->
+<!--post对提交信息大小没有限制，get则必须限制在40kb-->
+<form action="#" method="get">
+    <a href="mailto:xavierliang85@gmail.com">contact us</a>
+    <label for="a">username:<input type="text" id="a" placeholder="input ur username"></br></label>
+    password:<input type="password" placeholder="input ur password"></br>
+    gender:<input type="radio" name="gender" value="Male">M
+    <input type="radio" name="gender" value="Female">F</br>
+
+    vehicle:<input type="checkbox" name="vehicle" value="SUV">
+    <input type="checkbox" name="vehicle" value="VAN♂">
+    <input type="checkbox" name="vehicle" value="CAR">
+
+    pic:<input type="file" name="file"></br>
+
+    province:<select name="province">
+    <option value="0" selected>plz select</option>
+    <option value="1">on</option>
+    <option value="2">qc</option>
+    <option value="3">sa</option>
+    </select>
+    <input type="submit" value="login">
+</form>
+</body>
+</html>

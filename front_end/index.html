@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <style>
+        body{
+            padding-top:40px;
+            background: url("img/login_bg.png") no-repeat;
+        }
+        #div1{
+            width:800px;
+            height:450px;
+            margin:auto;
+            background-color:white;
+        }
+        #div2{
+            padding-top: 20px;
+            padding-left: 20px;
+            float:left;
+            height:400px;
+            width:200px;
+            font-size:20px;
+            background-color:white;
+        }
+
+        .left{
+            padding-left: 30px;
+            padding-top:10px
+        }
+
+        .right{
+            padding-top:10px;
+            padding-left:10px;
+        }
+
+        #image{
+            width:70px;
+            height:25px;
+            float:bottom;
+        }
+
+        #username,#password,#email,#name,#tel,#birthday{
+		        width: 200px;
+		        height: 20px;
+		        padding-left: 10px;
+		    }
+        #verify{
+            height: 20px;
+            width: 80px;
+            padding-left: 10px;
+        }
+
+        #submit{
+            width:180px;
+            height:45px;
+            background-color:yellow;
+            border:1px yellow solid;
+            margin-top:30px;
+            font-size:20px;
+        }
+
+        #div3{
+            float:left;
+            height:400px;
+            width:370px;
+            background-color:white;
+        }
+        #div4{
+            float:right;
+            height:400px;
+            width:194px;
+            background-color:white;
+            padding-top:20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="div1">
+        <div id="div2">
+            <font color="yellow">新用户注册</font>
+            <br><font color="gray"> New User Registration</font></br>
+        </div>
+        <div id="div3">
+            <form action="#" method="post">
+		                <table>
+		                    <tr>
+		                        <td class="left"><label for="username">username</label></td>
+		                        <td class="right"><input type="text" name="username" id="username" placeholder="username:"></td>
+		                    </tr>
+
+		                    <tr>
+		                        <td class="left"><label for="password">passowrd</label></td>
+		                        <td class="right"><input type="password" name="password" id="password" placeholder="password:"></td>
+		                    </tr>
+
+		                    <tr>
+		                        <td class="left"><label for="email">email</label></td>
+		                        <td class="right"><input type="email" name="email" id="email" placeholder="email address:"></td>
+		                    </tr>
+
+		                    <tr>
+		                        <td class="left"><label for="name">name</label></td>
+		                        <td class="right"><input type="text" name="name" id="name" placeholder="plz enter ur name"></td>
+		                    </tr>
+
+		                    <tr>
+		                        <td class="left"><label for="tel">phone number</label></td>
+		                        <td class="right"><input type="text" name="tel" id="tel" placeholder="plz enter ur phone number"></td>
+		                    </tr>
+
+		                    <tr>
+		                        <td class="left"><label>gender</label></td>
+		                        <td class="right">
+		                            <input type="radio" name="gender" value="male"> M
+		                            <input type="radio" name="gender" value="female"> F
+		                        </td>
+		                    </tr>
+
+		                    <tr>
+		                        <td class="left"><label for="birthday">date of birth</label></td>
+		                        <td class="right"><input type="date" name="birthday" id="birthday" placeholder="birth date:"></td>
+		                    </tr>
+
+		                    <tr>
+		                        <td class="left"><label for="verify" >verification</label></td>
+		                        <td class="right"><input type="text" name="verify" id="verify" placeholder="verify code:">
+                                    <img id="image" src="img/verify_code.jpg">
+		                        </td>
+		                    </tr>
+
+
+​
+		                    <tr>
+		                        <td colspan="2" align="center"><input type="submit" id="submit" value="submit"></td>
+		                    </tr>
+		                </table>
+
+		            </form>
+
+        </div>
+        <div id="div4">
+            already have an account?</br>
+            <a href="">login</a>
+        </div>
+    </div>
+</body>
+</html>

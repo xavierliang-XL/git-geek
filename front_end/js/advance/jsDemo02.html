@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" id="openbtn" value="openbtn">
+<input type="button" id="closebtn" value="closebtn">
+<script>
+    // var res=window.confirm("do u want to exit");
+    //     if (res){
+    //         alert("bye")
+    //     }else{
+    //         alert("return")
+    //     }
+    // var code=window.prompt("enter ur code:");
+    // alert(code);
+
+    var openbtn=document.getElementById("openbtn");
+    var newWin;
+    openbtn.onclick=function(){
+        newWin=window.open("https://www.amazon.ca/?ref=icp_country_us")
+    };
+
+    var closebtn=document.getElementById("closebtn");
+
+    closebtn.onclick=function(){
+        window.close(newWin);
+    }
+</script>
+
+</body>
+</html>

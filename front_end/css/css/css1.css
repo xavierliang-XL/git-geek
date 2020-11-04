@@ -1,0 +1,14 @@
+/*元素选择器*/
+div{
+    color:green;
+}
+
+#div1{
+    color:darkred;
+}
+
+.cls1{
+    size:200px;
+    color:blue;
+}
+
